@@ -1,0 +1,24 @@
+.contact{
+    background-color: #10121B;
+    min-height:100vh;
+    /* display: flex; */
+    color: white;
+   
+   /* justify-content: center; */
+   padding-top: 50px;
+   /* align-items: center; */
+   text-align: center;
+}
+.contact_form{
+    color: white !important;
+    /* align-items: center;
+    justify-content: center;
+    text-align: center; */
+    padding-top: 30px;
+
+}
+
+.input{
+   text-align: center;
+   padding-top: 30px;
+}

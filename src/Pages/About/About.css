@@ -1,0 +1,74 @@
+.aboutPage{
+    background-color: #10121B;
+min-height:100vh;
+display: flex;
+}
+
+.about_intro{
+    text-align:center;
+    flex:0.5;
+   
+}
+
+.about_intro1{
+    flex:0.5;
+   
+}
+.about_intro1_about{
+ color: white;
+ /* text-align: center; */
+ margin-top:140px;
+ margin-left: 0px;
+ margin-right: 80px;
+ 
+/* font-size: 2px; */
+}
+.pic{
+    height: 40vh;
+    margin-top: 50px;
+    margin-left: 100px;
+    object-fit: cover;
+}
+.about_head{
+    color: white;
+    margin-top: 30px;
+    
+}
+.about_details{
+    color: white;
+    text-align: center;
+
+    
+}
+.details{
+    display: flex;
+    align-items: flex-start;
+    
+   
+} 
+.left-section{
+    flex:0.1;
+    
+    
+ 
+    
+}
+.right-section{
+    flex:0.9;
+   
+    
+    
+}
+
+.btn {
+    margin-top: 1rem;
+    cursor: pointer;
+    text-transform: uppercase;
+    align-items: center;
+    padding: 1rem 2rem;
+    background-color:orange;
+    justify-content: center;
+    position: relative;
+     
+    
+}

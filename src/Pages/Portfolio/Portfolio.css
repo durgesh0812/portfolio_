@@ -1,0 +1,48 @@
+.portfolio{
+    background-color: #10121B !important;
+    min-height:100vh;
+    /* display: flex; */
+    padding-left:130px;
+    
+    color:white;
+}
+.title{
+    padding-left: 180px !important;
+    color:white
+    
+}
+.tabsbar{
+    padding-left: 120px;
+}
+
+
+ .customTabs{
+    margin-top:100px;
+   /* margin-left: 30px;
+   margin-right: 30px; */
+    width: 100%;
+    background-color: orange;
+   
+ }
+
+ .customCard{
+     width: 300px;
+     margin-top: 20px;
+ }
+ 
+.customTabs_item.active {
+    /* color:blueviolet !important; */
+    background-color: blueviolet;
+}
+.customCard .customCard_image{
+    height:140px;
+}
+.row1{
+    margin-left: 30px;
+    margin-top: 30px;
+}
+
+.customtabs > Tab :hover{
+    color: red;
+   
+}
